@@ -1,4 +1,4 @@
-# 🚦 FlowGuard AI
+# 🚦 TrafficIQ AI
 
 <div align="center">
 
@@ -21,9 +21,9 @@
 
 ---
 
-## 🌟 What is FlowGuard AI?
+## 🌟 What is TrafficIQ AI?
 
-FlowGuard AI is a next-generation **intelligent traffic management system** designed to tackle Bangalore's notorious traffic congestion. By leveraging **machine learning algorithms** trained on the **Bangalore Pulse Dataset**, FlowGuard AI provides real-time traffic predictions, dynamic signal control, and comprehensive vehicle management—all in one powerful platform.
+TrafficIQ AI is a next-generation **intelligent traffic management system** designed to tackle Bangalore's notorious traffic congestion. By leveraging **machine learning algorithms** trained on the **Bangalore Pulse Dataset**, FlowGuard AI provides real-time traffic predictions, dynamic signal control, and comprehensive vehicle management—all in one powerful platform.
 
 ### 💡 The Problem We Solve
 
@@ -40,7 +40,7 @@ Bangalore faces some of India's worst traffic congestion, costing millions of ho
 
 ## 🏗️ Project Architecture
 
-FlowGuard AI is built as a distributed, service-oriented system comprising a single-page React frontend, a Node.js Express coordination layer, and a Python FastAPI ML microservice.
+TrafficIQ AI is built as a distributed, service-oriented system comprising a single-page React frontend, a Node.js Express coordination layer, and a Python FastAPI ML microservice.
 
 ```
        ┌───────────────────────────────────────────────────┐
