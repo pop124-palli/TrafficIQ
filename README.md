@@ -229,12 +229,7 @@ greenTime = Math.max(20, Math.min(60, greenTime))
 
 ---
 
-## 🤝 Contributing & Support
 
-We welcome contributions from the community. Please fork the repository, make changes, and open a Pull Request.
-
-* **Email:** support@flowguardai.com
-* **Website:** [https://flow-guard-ecru.vercel.app/](https://flow-guard-ecru.vercel.app/)
 
 ---
 <div align="center">
